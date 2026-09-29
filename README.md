@@ -2,9 +2,9 @@
 
 # Hi, I’m Samyam
 
-<a href="https://git.io/typing-svg">
-  <!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61AFEF&center=true&vCenter=true&width=600&lines=Data+Science+%26+AI+Enthusiast;Python+Developer;Turning+data+into+insights;Building+intelligent+systems" alt="Typing SVG" /> -->
-</a>
+<a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61AFEF&center=true&vCenter=true&width=600&lines=Data+Science+%26+AI+Enthusiast;Python+Developer;Turning+data+into+insights;Building+intelligent+systems" alt="Typing SVG" /> </a> </div> <p align="right"> <img src="https://komarev.com/ghpvc/?username=Samyam001&label=Profile%20Views&color=61afef&style=flat" alt="Profile views" /> <a href="https://github.com/Samyam001?tab=followers"><img src="https://img.shields.io/github/followers/Samyam001?style=social" alt="Followers" /></a> </p>
+
+
 
 <img src="https://komarev.com/ghpvc/?username=Samyam001&label=Profile%20Views&color=61afef&style=flat" alt="Profile views" />
 <a href="https://github.com/Samyam001?tab=followers"><img src="https://img.shields.io/github/followers/Samyam001?style=social" alt="Followers" /></a>
