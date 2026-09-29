@@ -3,7 +3,7 @@
 # Hi, I’m Samyam
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61AFEF&center=true&vCenter=true&width=600&lines=Data+Science+%26+AI+Enthusiast;Python+Developer;Turning+data+into+insights;Building+intelligent+systems" alt="Typing SVG" />
+  <!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61AFEF&center=true&vCenter=true&width=600&lines=Data+Science+%26+AI+Enthusiast;Python+Developer;Turning+data+into+insights;Building+intelligent+systems" alt="Typing SVG" /> -->
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=Samyam001&label=Profile%20Views&color=61afef&style=flat" alt="Profile views" />
@@ -11,7 +11,7 @@
 
 </div>
 
-I’m a college student exploring the exciting world of **Data Science**.  
+I’m exploring exciting world of **Data Science**.  
 My focus is on learning how to turn data into insights and building intelligent systems that solve real-world problems.
 
 ---
